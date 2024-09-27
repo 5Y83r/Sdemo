@@ -1,3 +1,3 @@
 # Sdemo
 my first Git Repository
-Author: Sdatta
+Author: S_datta
